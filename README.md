@@ -1,4 +1,5 @@
-## machine-learing
+## Machine-learing 
+#### Mini Projects Repo
 
 This repo contains Impementation of simple machine learning projects
 
