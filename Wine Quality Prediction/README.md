@@ -1,10 +1,19 @@
-## Machine-learing 
-#### Mini Projects Repo
+## Wine Quality Prediction
+#### Machine Learning
 
-This repo contains Impementation of simple machine learning projects
+This projects contains classification of red wine quality .
+Steps included:
+1. Reading the data
+2. Preprocessing - Normalization ,label encoding of the data
+3. Visuallization and Data Analysis
+4. Splitting of data into test-train.
+5. Fitting different types of models- logistic regression ,gradiant boosting, random forest.
+6. Checking accuracy using prediction on test set
+7. hyperparameter tuning using GridSearchCv.
 
-Each Folder contains a notebook that Contails , visualization of dataset, preprocessing 
-and fitting an suitable machine learning  model to give best accuracy and evaultion of the model.
+
+
+
 
 
 
