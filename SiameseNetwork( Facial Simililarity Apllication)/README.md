@@ -1,10 +1,8 @@
-## Machine-learing 
-#### Mini Projects Repo
+### Siamese Networks
 
-This repo contains Impementation of simple machine learning projects
+This project is implementation of siamese network application in determining facial similarities(dissimilarities).
 
-Each Folder contains a notebook that Contails , visualization of dataset, preprocessing 
-and fitting an suitable machine learning  model to give best accuracy and evaultion of the model.
+
 
 
 
